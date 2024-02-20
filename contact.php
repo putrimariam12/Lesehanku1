@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lesehanku</title>
+  <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+  <font face="serif"><strong><center><h2><b>L E S E H A N K U</b></h2></center></strong></font><br>
+  <nav class="navbar navbar-inverse">
+    <div class="container">
+      <div class="Medsos">
+    <div class="Medsos">
+      
+    
+      
+        
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+      <span class="sr-only">Les</span>
+      <span class="icon-bar"></span> 
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      </button>
+      <font face="serif">
+
+     <a class="navbar-brand" href="#" ></a></font>
+    </div>
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+    
+       <li><a href="index.html">Beranda<span class="sr-only">(current)</span></a></li>
+
+       <li ><a href="menu.html">Menu  <span class="glyphicon glyphicon-cutlery"></a></li></span>
+       
+
+       <li ><a href="galeri.html">Galeri <span class="glyphicon glyphicon-picture"></a></li></span>
+     
+       <li class="active"><a href="contact.php">Kontak K A M I<span class="glyphicon glyphicon-phone-alt"></a></li></span>
+    <form class="navbar-form navbar-right">
+      <div class="form-group">
+        <input type="text" class="form-control" placeholder="cari di lesehanku"></div>
+        <button type="submit" class="btn btn-warning">Cari</button>
+      <a href="login.php" class="btn btn-primary">Login <span class="glyphicon glyphicon-user"></span></a></form>
+        
+      
+        
+         <div class="container"></nav><font face="serif">
+          
+          <br><br>
+
+
+
+                    </font>
+                       <br><div class="col-md-1"></div><div class="col-md-10">
+    <div class="alert alert-info"><h4><h3>MONGGO DISEKECAAKEN/SELAMAT MENIKMATI!!!<span class="glyphicon glyphicon-cutlery"></span></h3></div></div></div></a><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<div class="container mtb">
+  <div class="row">
+    <div class="col-md-12">
+      <center><h3>Kontak Layanan Lesehanku</h3></center>
+<h4>Kami menampung semua pesan dan keluhan anda sesuai harapan yang anda inginkan</h4>
+  <form action="proses-inputsaran.php" method="POST">
+ 
+          <div class="form-group">
+            <label for="id_saran">Kode Saran</label>
+            <input type="number" name="id_saran" class="form-control">
+          </div>
+    <div class="form-group">
+      <label for="nama">Nama anda</label>
+      <input type="text" name="nama" class="form-control" placeholder="Isikan nama lengkap anda!">
+
+    </div>
+    <div class="form-group">
+      <label for="email">Email anda</label>
+      <input type="emiluser" name="email" class="form-control" placeholder="Isikan Email valid!">
+    </div>
+    <div class="form-group">
+      <label for="saran">saran/Pesan anda di Lesehanku</label>
+      <textarea class="form-control" name="saran" rows="3"></textarea>
+    </div>
+    <input class="btn btn-info btn-md" type="submit" value="Kirim Pesan">
+  </form>
+    </div>
+  </div>
+</div><br><br><br><br><br><br><br><br><br></div></div></div>
+
+          </div>
+
+        <div class="col-md-12">  
+            <div class="col-md-3">  <a href="m9.html">
+            <img src="img/10.png" height="300px" width="250px">
+            <br><h4><b>Coffe Late Special</b></h4>
+           <h6><del>Rp. 29.000,- </h6></del><h4>Rp. 15.000,- 
+           <br><button class="btn btn-warning">Pesan Sekarang </button></div>
+         </h4></h6></a> <div class="col-md-3"> <a href="m1.html">
+            <img src="img/1.png" height="300px" width="250px">
+            <br><h4><b>Soup & Soto Sapi Kuah Telur</b></h4>
+            <h6><del>Rp. 79.000,- </h6></del><h4>Rp. 45.000,-
+            <br><button class="btn btn-warning">Pesan Sekarang </button></h4></a></div> 
+           <div class="col-md-3">  <a href="m10.html">
+            <img src="img/15.png" height="300px" width="250px">
+             <h4><b>Lemon Ice Special</b></h4>
+           <h6><del>Rp. 29.000,- </h6></del><h4>Rp. 15.000,- 
+            <br><button class="btn btn-warning">Pesan Sekarang </button></div>
+         </h4></h6></a>
+        <a href="m7.html">
+            <img src="img/8.png" height="300px" width="250px">
+            <br><h4><b>Pangsit Kuah Daging </b></h4><h6>
+              <del>Rp. 79.000,- </h6></del><h4>Rp. 45.000,- 
+               <br><button class="btn btn-warning">Pesan Sekarang </button></h4></a></div></h6></div></h6></div></ul></div></div></div></div></nav>
+             
+    <br><br><br><br> 
+        <font face="serif">
+        <br><center><h3> > > > > > > > > > > > L E S E H A N K U < < < < < < < < < < < < </h3></center></font>
+        
+        <h4>_____________________________________________________________________________________________________________________________________</h4>
+        <font face="serif">
+            <div class="list-group-item-warning">
+            <h3><div class="col-md-3 btn btn-warning"><p><a href="index.html"> | ABOUT |</a></p></div>  
+                 <div class="col-md-3 btn btn-warning" ><p><a href="contact.html">| KONTAK KAMI |</a></p></div> 
+                  <div class="col-md-3 btn btn-warning"><p><a href="menu.html"> | PESAN |</a></p></div>   
+                   <div class="col-md-3 btn btn-warning"><p><a href="galeri.html">| GALERI |</a></h3><br><center>
+                    <strong>WWW.lesehanku.COM</strong></p> 
+            <small>CopyRight & copy; 2022 - LESEHANKU. All Right Reserved</small></p>
+           </font>
+              
+     </div>
+    </div>
+  </div>
+<script src="bootstrap/js/jQuery.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+</body>
+</html> 
